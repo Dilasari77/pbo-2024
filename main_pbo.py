@@ -40,7 +40,6 @@ class Mahasiswa:
             print(f"  {item['mata_kuliah']}: {item['nilai']}")
         print(f"Rata-rata Nilai: {self.rata_rata_nilai():.2f}")
 
-#ini fungsi
 
 mahasiswa1 = Mahasiswa("Dila", "23062", "Teknik Informatika")
 mahasiswa1.tambah_nilai("Basis Data", 85)
