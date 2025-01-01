@@ -16,6 +16,7 @@ class test:
 
 fungsi (function)
 kelas (class)
+
 #Menambahkan fungsi dan class untuk modul satu PBO
 
 #modul_satu_pbo.py
