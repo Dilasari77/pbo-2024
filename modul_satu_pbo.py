@@ -14,6 +14,8 @@ class test:
 # silahkan lanjutkan dengan fungsi dan calss anda dibawah
 # pastikan untuk menguji class dan fungsi yang sudah di buat disini
 
+fungsi (function)
+kelas (class)
 #Menambahkan fungsi dan class untuk modul satu PBO
 
 #modul_satu_pbo.py
