@@ -13,6 +13,8 @@ print ("\nTest Pesan : ", p.mes(), "\n")
 
 #main_pbo.py
 
+from modul_satu_pbo import Mahasiswa
+
 class Mahasiswa:
     def __init__(self, nema, npm, jurusan):
         self.nema = nema
