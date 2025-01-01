@@ -14,14 +14,8 @@ class test:
 # silahkan lanjutkan dengan fungsi dan calss anda dibawah
 # pastikan untuk menguji class dan fungsi yang sudah di buat disini
 
-fungsi (function)
-kelas (class)
-
-#Menambahkan fungsi dan class untuk modul satu PBO
-
 #modul_satu_pbo.py
 
-#ini class
 class Mahasiswa:
     def __init__(self, nema, npm, jurusan):
         self.nema = nema
@@ -46,11 +40,3 @@ class Mahasiswa:
         for item in self.nilai:
             print(f"  {item['mata_kuliah']}: {item['nilai']}")
         print(f"Rata-rata Nilai: {self.rata_rata_nilai():.2f}")
-
-#ini fungsi
-mahasiswa1 = Mahasiswa("Dila", "23062", "Teknik Informatika")
-mahasiswa1.tambah_nilai("Basis Data", 85)
-mahasiswa1.tambah_nilai("Fisika", 90)
-mahasiswa1.tambah_nilai("Algoritma", 78)
-
-mahasiswa1.tampilkan_info()
