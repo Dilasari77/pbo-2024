@@ -16,6 +16,8 @@ class test:
 
 #Menambahkan fungsi dan class untuk modul satu PBO
 
+#modul_satu_pbo.py
+
 #ini class
 class Mahasiswa:
     def __init__(self, nema, npm, jurusan):
